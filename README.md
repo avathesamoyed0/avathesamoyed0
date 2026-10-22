@@ -1,4 +1,4 @@
-# Ahoj, tady avathesamoyed0.
+# Ahoj, tady Zainab.
 
 Jsem vývojář, kterého baví rozebírat věci do hloubky a stavět software, co dává smysl. Nejvíc času teď trávím kolem systémového vývoje a open-source.
 
