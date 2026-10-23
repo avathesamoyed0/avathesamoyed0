@@ -6,7 +6,7 @@ Jsem vývojář, kterého baví rozebírat věci do hloubky a stavět software, 
 
 Můj hlavní fokus je momentálně **NixelOS**, projekt pod organizací **NixelSoftware**. Snažím se v něm řešit věci jednoduše, čistě a stabilně.
 
-[![NixelOS Repo](https://github-readme-stats.vercel.app/api/pin/?username=NixelSoftware&repo=NixelOS&theme=tokyonight&show_owner=true)](https://github.com/NixelSoftware/NixelOS)
+[![NixelOS Repo](https://github-readme-stats.vercel.app/api/pin/?username=NixelSoftware&repo=NixelOS&theme=tokyonight&show_owner=true&)](https://github.com/NixelSoftware/NixelOS)
 
 Pokud tě zajímá, co přesně tam kutím, mrkni přímo do repozitáře:
 * Repozitář: [NixelSoftware/NixelOS](https://github.com/NixelSoftware/NixelOS)
